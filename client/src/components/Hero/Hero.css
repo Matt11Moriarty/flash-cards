@@ -1,0 +1,13 @@
+.hero {
+    max-width: max-content;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.hero h1 {
+    margin-bottom: 20px;
+}
+
+.hero p {
+    line-height: 1.6;
+  }
